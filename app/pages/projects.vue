@@ -27,6 +27,15 @@
           <NuxtLink to="/users" class="primary-button">
             Open Demo
           </NuxtLink>
+
+          <a
+            href="https://github.com/ahmadh497/nuxt-user-management"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="secondary-button"
+          >
+            GitHub Repository
+          </a>
         </div>
       </article>
 
